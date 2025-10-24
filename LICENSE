@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+-----------------------------------------
+NOTICE FROM THE AUTHOR (zhou yutao):
+
+This software is provided for educational purposes or for use in non-critical environments. It has not been tested, audited, or designed for use in situations where its failure could lead to personal injury, significant property damage, or substantial financial loss (e.g., medical, aviation, nuclear, military systems).
+
+You are strongly advised to conduct your own security and safety audits before deploying this software in any production or critical system. The standard MIT disclaimer above applies to the fullest extent.
+
